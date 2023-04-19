@@ -1,6 +1,6 @@
 # 💫 About Me:
-I study at the National University of Costa Rica. 🇨🇷  📚
-
+I study at the National University of Costa Rica.
+I like software development and code analysis.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jose.pablo27) 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-I study at the National University of Costa Rica.
+I study at the National University of Costa Rica. <br>
 I like software development and code analysis.
 
 ## 🌐 Socials:

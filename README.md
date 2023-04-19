@@ -1,5 +1,5 @@
 # 💫 About Me:
-I study at the National University of Costa Rica. <br>I am learning technologies such as JavaScrip, HTML, CSS and .NET.<br>
+I study at the National University of Costa Rica. 🇨🇷  📚
 
 
 ## 🌐 Socials:

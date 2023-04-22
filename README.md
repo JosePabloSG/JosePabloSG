@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 I study at the National University of Costa Rica. <br>
 I like software development and code analysis.
 
@@ -16,4 +16,3 @@ I like software development and code analysis.
 ---
 [![](https://visitcount.itsvg.in/api?id=JosePabloSG&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

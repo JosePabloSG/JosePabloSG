@@ -5,8 +5,7 @@ I'm a 20 year old developer, and I'm passionate about crafting digital web exper
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/http://discordapp.com/users/797265640335343616) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/josepablo.sg/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@suarezgomezjosepablo03) 
 
-## 🌐 My website:
-https://portfolio-josepablosg-josepablosgs-projects.vercel.app/
+## 🌐 [My Website](https://portfolio-josepablosg-josepablosgs-projects.vercel.app/) 
 
 # 💻 Tech Stack:
 

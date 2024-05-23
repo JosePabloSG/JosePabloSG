@@ -23,7 +23,8 @@ I'm a 20 year old developer, and I'm passionate about crafting digital web exper
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JosePabloSG&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JosePabloSG&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+
 ---
-[![](https://visitcount.itsvg.in/api?id=JosePabloSG&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JosePabloSG&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
